@@ -3,29 +3,41 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arooj%20Ashfaq&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
-<!-- ===== ANIMATED TYPING EFFECT ===== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=00F7FE&center=true&vCenter=true&width=600&lines=🔒+Security-Focused+Developer;🌐+Full-Stack+Web+Architect;⚡+CTF+Challenger+%26+Ethical+Hacker;🚀+Building+the+Future+of+Web+Security" />
-</h1>
+<!-- ===== SPACER ===== -->
+<br/>
+<br/>
 
-<!-- ===== ANIMATED SNAKE CONTRIBUTION GRID ===== -->
+<!-- ===== ANIMATED TYPING EFFECT - FIXED ===== -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arooj-Ashfaq/Arooj-Ashfaq/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arooj-Ashfaq/Arooj-Ashfaq/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arooj-Ashfaq/Arooj-Ashfaq/output/github-snake.svg">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=500&color=00F7FE&center=true&vCenter=true&width=700&height=70&lines=🔒+Security-Focused+Developer;🌐+Full-Stack+Web+Architect;⚡+CTF+Challenger+%26+Ethical+Hacker;🚀+Building+the+Future+of+Web+Security" />
 </p>
 
+<!-- ===== SPACER ===== -->
+<br/>
+
+<!-- ===== ANIMATED SNAKE CONTRIBUTION GRID ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arooj-Ashfaq/Arooj-Ashfaq/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arooj-Ashfaq/Arooj-Ashfaq/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arooj-Ashfaq/Arooj-Ashfaq/output/github-snake.svg">
+</picture>
+
 <!-- ===== ANIMATED DIVIDER ===== -->
+<br/>
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<br/>
 
 <!-- ===== PROFILE VIEWS & STATUS ===== -->
-<h3 align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arooj-Ashfaq&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active-%2300ff00?style=flat-square&logo=statuspal" alt="Status" />
   <img src="https://img.shields.io/github/followers/Arooj-Ashfaq?label=Followers&style=social" alt="GitHub Followers" />
-</h3>
+</p>
+
+<!-- ===== SPACER ===== -->
+<br/>
 
 <!-- ===== PROFESSIONAL BADGES ===== -->
 <p align="center">
@@ -38,9 +50,12 @@
 </p>
 
 <br/>
+<br/>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<br/>
 
 <!-- ===== ABOUT ME SECTION ===== -->
 <h2 align="center">
@@ -49,10 +64,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00F7FE&center=true&vCenter=true&width=800&lines=🔐+Cybersecurity+Enthusiast+%26+Web+Developer;🌍+Based+in+Pakistan;💡+Passionate+about+Secure+Coding+and+DevSecOps;🎯+Goal:+Become+a+Top+Security+Engineer;🏆+CTF+Player+%7C+Bug+Bounty+Hunter" />
-</div>
+<br/>
 
+<!-- ===== ABOUT ME TEXT - FIXED ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&pause=500&color=00F7FE&center=true&vCenter=true&width=900&height=60&lines=🔐+Cybersecurity+Enthusiast+%26+Web+Developer;🌍+Based+in+Pakistan;💡+Passionate+about+Secure+Coding+and+DevSecOps;🎯+Goal:+Become+a+Top+Security+Engineer;🏆+CTF+Player+%7C+Bug+Bounty+Hunter" />
+</p>
+
+<br/>
+<br/>
+
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 <br/>
 
 <!-- ===== SKILLS WITH ANIMATED ICONS ===== -->
@@ -62,29 +86,32 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30px" />
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>💻 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-      </td>
-      <td align="center" width="33%">
-        <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,python,express,php,mysql,mongodb,postgres,redis" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🔒 Cybersecurity</h3>
-        <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws,git,github" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>💻 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,express,php,mysql,mongodb,postgres,redis" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🔒 Cybersecurity</h3>
+      <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws,git,github" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 <br/>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<br/>
 
 <!-- ===== GITHUB STATS ===== -->
 <h2 align="center">
@@ -93,10 +120,14 @@
   <img src="https://media.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="30px" />
 </h2>
 
+<br/>
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Arooj-Ashfaq&show_icons=true&count_private=true&hide_border=true&title_color=00f7fe&icon_color=00f7fe&text_color=c9d1d9&bg_color=0d1117" alt="Arooj Ashfaq GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arooj-Ashfaq&layout=compact&hide_border=true&title_color=00f7fe&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+<br/>
 
 <!-- ===== STREAK STATS & TROPHIES ===== -->
 <div align="center">
@@ -105,14 +136,19 @@
 </div>
 
 <br/>
+<br/>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<br/>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 <h2 align="center">📈 Activity Graph</h2>
+<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arooj-Ashfaq&theme=react-dark&bg_color=0d1117&hide_border=true&point=00f7fe&line=00f7fe&color=00f7fe" />
 
+<br/>
 <br/>
 
 <!-- ===== PROJECTS SHOWCASE ===== -->
@@ -121,6 +157,8 @@
   Featured Projects
   <img src="https://media.giphy.com/media/XOoOmO6P1yYLib7uy5/giphy.gif" width="30px" />
 </h2>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/Arooj-Ashfaq/secure-auth-system">
@@ -141,9 +179,12 @@
 </div>
 
 <br/>
+<br/>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<br/>
 
 <!-- ===== CONNECT WITH ME ===== -->
 <h2 align="center">
@@ -151,6 +192,8 @@
   Let's Connect
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" />
 </h2>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arooj-ashfaq/">
@@ -171,49 +214,6 @@
 </p>
 
 <br/>
-
-<!-- ===== SUPPORT ME ===== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30px" />
-  Support My Work
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30px" />
-</h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/aroojashfaq">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" width="210px" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://github.com/sponsors/Arooj-Ashfaq">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<!-- ===== LATEST BLOG POSTS ===== -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3orieS4jfHxK2Q3Yoo/giphy.gif" width="30px" />
-  Latest Blog Posts
-  <img src="https://media.giphy.com/media/3orieS4jfHxK2Q3Yoo/giphy.gif" width="30px" />
-</h2>
-
-<div align="center">
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-</div>
-
-<br/>
-
-<!-- ===== CURRENTLY LEARNING ===== -->
-<h2 align="center">📚 Currently Learning</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OSCP-Exam_Preparation-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-Infrastructure_Code-purple?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Zero_Trust-Security_Framework-orange?style=for-the-badge" />
-</div>
-
 <br/>
 
 <!-- ===== FOOTER WITH ANIMATION ===== -->
@@ -221,12 +221,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
 
-<!-- ===== ANIMATED TYPING FOOTER ===== -->
+<!-- ===== ANIMATED TYPING FOOTER - FIXED ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=15&duration=4000&pause=500&color=00F7FE&center=true&vCenter=true&width=400&lines=🌟+Always+Learning;🔐+Securing+the+Web;💻+Open+to+Collaboration;🚀+Building+for+the+Future" />
-</p>
-
-<!-- ===== SUPPORT ANIMATION ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arooj-Ashfaq/Arooj-Ashfaq/output/github-snake-dark.svg" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=15&duration=4000&pause=500&color=00F7FE&center=true&vCenter=true&width=500&height=40&lines=🌟+Always+Learning;🔐+Securing+the+Web;💻+Open+to+Collaboration;🚀+Building+for+the+Future" />
 </p>
