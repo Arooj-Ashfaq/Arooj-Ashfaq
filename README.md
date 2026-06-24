@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===== BIG SPACER - IMPORTANT ===== -->
-<br/><br/><br/><br/>
+<br/><br/>
 
 <!-- ===== TYPING EFFECT - SEPARATED ===== -->
 <p align="center">
