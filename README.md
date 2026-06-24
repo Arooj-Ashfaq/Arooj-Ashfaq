@@ -1,6 +1,6 @@
 <!-- ===== ANIMATED HEADER WITH WAVING EFFECT ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arooj%20Ashfaq&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Arooj%20Ashfaq&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
 <!-- ===== BIG SPACER - IMPORTANT ===== -->
